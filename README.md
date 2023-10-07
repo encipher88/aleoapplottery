@@ -21,15 +21,15 @@ which leo
 
 leo account new
 ```
-# Private Key  ...
-# View Key  ...
-# Address  aleo12h7xppquv6dkmldalwkcpaxcjaahcvl9qcpg9d9hy2v05udz8vps39xd0y
+Private Key  ...
+View Key  ...
+Address  aleo12h7xppquv6dkmldalwkcpaxcjaahcvl9qcpg9d9hy2v05udz8vps39xd0y
 
 ```
 leo example  lottery
 ```
-#       Leo ✅ Created an Aleo program 'lottery' (in "/root/lottery")
-#       Leo 🚀 To run the 'lottery' program follow the instructions at /root/lottery/README.md
+Leo ✅ Created an Aleo program 'lottery' (in "/root/lottery")
+Leo 🚀 To run the 'lottery' program follow the instructions at /root/lottery/README.md
 ```
 cd /lottery
 chmod +x "/root/lottery/run.sh"
